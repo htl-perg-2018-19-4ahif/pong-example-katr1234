@@ -1,3 +1,5 @@
+//Made with Katrin Haslinger, Patrick Wegerer
+
 window.addEventListener("load", async () => {
   /** Represents a 2d point */
   interface Point {

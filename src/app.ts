@@ -1,3 +1,5 @@
+//Made with Katrin Haslinger, Patrick Wegerer
+
 /**************************************************************************
   Just the usual express.js setup...
   NOTE: This code has not been optimized for size or speed. It was written
